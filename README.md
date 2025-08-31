@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/m0ln1z/leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/m0ln1z/leetcode/tree/master/0043-multiply-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/m0ln1z/leetcode/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/m0ln1z/leetcode/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/m0ln1z/leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
