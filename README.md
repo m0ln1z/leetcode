@@ -18,6 +18,7 @@
 | [0046-permutations](https://github.com/m0ln1z/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/m0ln1z/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/m0ln1z/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/m0ln1z/leetcode/tree/master/0049-group-anagrams) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0036-valid-sudoku](https://github.com/m0ln1z/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/m0ln1z/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/m0ln1z/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/m0ln1z/leetcode/tree/master/0049-group-anagrams) |
 ## Matrix
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 | [0038-count-and-say](https://github.com/m0ln1z/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/m0ln1z/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/m0ln1z/leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/m0ln1z/leetcode/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,4 +93,5 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/m0ln1z/leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/m0ln1z/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
