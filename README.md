@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/m0ln1z/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/m0ln1z/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/m0ln1z/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/m0ln1z/leetcode/tree/master/0037-sudoku-solver) |
 ## Binary Search
 |  |
 | ------- |
@@ -19,8 +20,14 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/m0ln1z/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/m0ln1z/leetcode/tree/master/0037-sudoku-solver) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/m0ln1z/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/m0ln1z/leetcode/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/m0ln1z/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
