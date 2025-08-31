@@ -20,6 +20,7 @@
 | [0048-rotate-image](https://github.com/m0ln1z/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/m0ln1z/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/m0ln1z/leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/m0ln1z/leetcode/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0042-trapping-rain-water](https://github.com/m0ln1z/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/m0ln1z/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/m0ln1z/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/m0ln1z/leetcode/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -99,4 +101,8 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/m0ln1z/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/m0ln1z/leetcode/tree/master/0049-group-anagrams) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/m0ln1z/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
