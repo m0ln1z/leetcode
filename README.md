@@ -17,6 +17,7 @@
 | [0045-jump-game-ii](https://github.com/m0ln1z/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/m0ln1z/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/m0ln1z/leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/m0ln1z/leetcode/tree/master/0048-rotate-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/m0ln1z/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/m0ln1z/leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/m0ln1z/leetcode/tree/master/0048-rotate-image) |
 ## Backtracking
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/m0ln1z/leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/m0ln1z/leetcode/tree/master/0048-rotate-image) |
 ## Simulation
 |  |
 | ------- |
