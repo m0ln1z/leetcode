@@ -13,6 +13,7 @@
 | [0039-combination-sum](https://github.com/m0ln1z/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/m0ln1z/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/m0ln1z/leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/m0ln1z/leetcode/tree/master/0042-trapping-rain-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +41,20 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/m0ln1z/leetcode/tree/master/0038-count-and-say) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/m0ln1z/leetcode/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/m0ln1z/leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/m0ln1z/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/m0ln1z/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
