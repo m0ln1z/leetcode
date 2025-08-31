@@ -30,4 +30,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/m0ln1z/leetcode/tree/master/0037-sudoku-solver) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/m0ln1z/leetcode/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
