@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/m0ln1z/leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/m0ln1z/leetcode/tree/master/0061-rotate-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,4 +121,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/m0ln1z/leetcode/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/m0ln1z/leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
