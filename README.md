@@ -35,6 +35,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/m0ln1z/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/m0ln1z/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/m0ln1z/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/m0ln1z/leetcode/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0060-permutation-sequence](https://github.com/m0ln1z/leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/m0ln1z/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/m0ln1z/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/m0ln1z/leetcode/tree/master/0069-sqrtx) |
 ## Simulation
 |  |
 | ------- |
