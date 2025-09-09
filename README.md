@@ -172,6 +172,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/m0ln1z/leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/m0ln1z/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/m0ln1z/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Combinatorics
 |  |
 | ------- |
